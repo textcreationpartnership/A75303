@@ -1,0 +1,319 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Amorous shepherd, and coy shepherdess, or, An answer to Amintas and Claudia</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75303</idno>
+            <idno type="STC">Wing A3021bA</idno>
+            <idno type="STC">ESTC R232859</idno>
+            <idno type="EEBO-CITATION">45097491</idno>
+            <idno type="OCLC">ocm 45097491</idno>
+            <idno type="VID">171111</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75303)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171111)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2559:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Amorous shepherd, and coy shepherdess, or, An answer to Amintas and Claudia</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Clarke at the Harp and Bible in West-Smithfield,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"Tune of, Calm was the evening, &amp;c."</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+                  <note>Imperfect: cropped with some loss of print.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Verse satire, English.</term>
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:171111:1"/>
+            <!-- PDF PAGE 11 -->
+            <head>The Amorous Shepherd, and coy Shepherdeſs, Or, An anſwer to <hi>Amintas</hi> and <hi>Claudia.</hi>
+            </head>
+            <argument>
+               <l>Fair <hi>Calia</hi> kept her lover long in awe,</l>
+               <l>And what he ſaid, ſhee daſht with a ha, ha,</l>
+               <l>But after when the Shepherd bolder grew,</l>
+               <l>He made her change her old note for a new.</l>
+            </argument>
+            <opener>Tune of, Calm was the Evening, &amp;c.</opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Clear was the morning, and azure the Skie</l>
+               <l>and May flowers adorned the Spring,</l>
+               <l>When all alone walked <hi>Caelia</hi> and I</l>
+               <l>to hear the birds merily ſing,</l>
+               <l>She sate and I laid me down by her</l>
+               <l>and cloſe to her ſide I did draw,</l>
+               <l>But ſhe bid me forbear,</l>
+               <l>Yet ſtill I drew near,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Then ſhe laught with a ha, ha, ha, ha, ha, ha,<lb/>
+ha, ha, ha, ha, ha, ha, ha.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>I uſ'd my beſt art, for to chear up her heart</l>
+               <l>and cauſe her to ſtoop to my lure,</l>
+               <l>But ſtill ſhe was mute, when I moved my ſuite</l>
+               <l>being guarded with innocence pure,</l>
+               <l>I plaid with her locks, like a lover</l>
+               <l>untill ſhe took notice and ſaw,</l>
+               <l>And then ſhe ſaid fye,</l>
+               <l>I preſumed too nigh,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>
+                        <gap reason="illegible: page cropped" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> out with a h<gap reason="illegible: missing" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>I bid her behold how <hi>Phaebus</hi> did lye</l>
+               <l>incloſed in <hi>Aurora's</hi> armes,</l>
+               <l>How amorous birds to make it did flye</l>
+               <l>yet ſtill ſhe reſiſted my charmes,</l>
+               <l>I ſhow'd her how Trees there imbraced</l>
+               <l>by inticement of natures law,</l>
+               <l>Wich made her to ſmile,</l>
+               <l>To her ſelf for a while,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>At laſt ſhe laught out ha, ha, &amp;c:</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>I told her the earth which our bodies now cover</l>
+               <l>did willingly the ſeed embrace,</l>
+               <l>Elſe to thoſe flowers ſhe ne're had been Mother,</l>
+               <l>which now doth beſpangle her face,</l>
+               <l>I ſhow'd her how ewes, with their lambs plaid</l>
+               <l>thus thought I by Emblems to draw,</l>
+               <l>Her to my deſire,</l>
+               <l>And kindle loves fire,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>But I was daſht with a ha, ha, ha, ha, ha, ha,<lb/>
+ha, ha, ha, ha, ha, ha, ha.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>HEr eyes they did ſparkle like Stars in the Skies</l>
+               <l>inviting me for to be bold,</l>
+               <l>
+                  <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut how to preſume I could not deviſe</l>
+               <l>ſhe ſeem'd in affection ſo cold,</l>
+               <l>
+                  <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thought then to pluck up my ſpirits</l>
+               <l>and try if her heart it would thaw,</l>
+               <l>But ſhe being nice,</l>
+               <l>I was daſht in a trice,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>When ſhe laught with a ha, ha, ha, ha, ha, ha,<lb/>
+ha, ha, ha, ha, ha, ha, ha.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>I laid my head down, and I fetcht a deep ſigh</l>
+               <l>thinking by that means for to move</l>
+               <l>Her pitty to me, but it would not be,</l>
+               <l>ſhe ſeem'd to know nothing of love</l>
+               <l>With amorous looks I did woe her,</l>
+               <l>to yeild and ſubmit to loves law,</l>
+               <l>But when with a frown,</l>
+               <l>Shee perceiv'd me caſt down,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>
+                        <gap reason="illegible: page cropped" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hen ſhe laught with a ha, ha, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>My heart it did pant in my breaſt all the while</l>
+               <l>and the blood in my veins it did ſwell,</l>
+               <l>
+                  <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y countenance chang'd, and my looks are eſtrang'd</l>
+               <l>then ſhe askt me if I were not well,</l>
+               <l>
+                  <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut when ſhe perceived my paſſion</l>
+               <l>ſhe ſaid I might pleas to with draw,</l>
+               <l>But it was, but a while,</l>
+               <l>E're I ſee ſhe did ſmile,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>And laught out with ha, ha, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>When this would not do, ſomething bolder I grew</l>
+               <l>and ſtraight to her lips did preſume,</l>
+               <l>Where by a kiſs, I enjoyed more bliſs</l>
+               <l>then <hi>Jove</hi> in his altars perfume,</l>
+               <l>Such nectar from her lips I then drew</l>
+               <l>as <hi>Jove,</hi> nor <hi>Apollo</hi> ne're ſaw,</l>
+               <l>Yet ſtill ſhe was coy,</l>
+               <l>When I call'd her my joy</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>And laught out with a ha, ha, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>I plaid with her neck, that Ivory pillar</l>
+               <l>then with her parnaſion breaſt,</l>
+               <l>And ſo by degrees, I enjoyd what did pleaſe</l>
+               <l>but ſcarce ſhall I tell you the reſt,</l>
+               <l>But what I did do, ſhe then ſmil'd at</l>
+               <l>and laid to my actions no law,</l>
+               <l>But for all her retreat,</l>
+               <l>She liked to the feat,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>That ſhe laught with a ha, ha, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>She ſaid the time ſpent, and ſhe needs muſt be gone</l>
+               <l>which grieved my heart for to hear,</l>
+               <l>Becauſe I was loath, to tell you the truth</l>
+               <l>to part with my joy and my dear,</l>
+               <l>I kiſt her a while, then we parted</l>
+               <l>and paſſing along there I ſaw</l>
+               <l>A Shepherdeſs walk,</l>
+               <l>Which had heard all our talk,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>And ſhe laught with a ha, ha, ha, ha, ha, ha,<lb/>
+ha, ha, ha, ha, ha, ha, ha.</hi>
+                  </l>
+               </lg>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for I Clarke at the Harp and Bible in Weſt-Smith <unclear>field</unclear>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
